@@ -11,9 +11,9 @@ const DEFAULT_SETTINGS: PluginSettings = {
 title: 
 date: {{date:YYYY-MM-DD HH:mm:ss}}
 categories:
-	- 
+    - 
 tags:
-	- 
+    - 
 ---
 
 `
